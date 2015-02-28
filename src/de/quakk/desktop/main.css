@@ -1,0 +1,22 @@
+.textfields
+{
+    -fx-focus-color: "#FF4540";
+    -fx-border-radius: 20px;
+    -fx-border-color: "#FF454040";
+    -fx-background-radius: 20px;
+    -fx-background-color: transparent;
+    -fx-prompt-text-fill: "#ffffff";
+}
+.buttons
+{
+    -fx-focus-color: "#FF4540";
+    -fx-border-radius: 20px;
+    -fx-border-color: "#FF454040";
+    -fx-background-radius: 20px;
+    -fx-background-color: radial-gradient(#14ADCC,#16AFCE);
+    -fx-fontstyle: underlined;
+}
+.panes
+{
+    -fx-background-color: linear-gradient(#00FF9E, #3D8999);
+}
